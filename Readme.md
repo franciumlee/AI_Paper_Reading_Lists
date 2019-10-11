@@ -7,7 +7,7 @@
 
 - [ ] survey and benchmarking of machine learning accelerators [pdf](https://arxiv.org/pdf/1908.11348.pdf)
 
-# 0.Model
+# 1.Model
 
 ## Classification Model
 
@@ -25,11 +25,11 @@
 ## Instance Segmentation
 
 
-# 1. Hardware
+# 2. Hardware
 
-## 1.1.2 ASIC(Tapout)
+## 2.1.2 ASIC(Tapout)
 
-### 1.1.2.0 ISSCC
+### 2.1.2.0 ISSCC
 - [ ] Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks **(ISSCC'16)** [pdf](https://ieeexplore.ieee.org/document/7738524) 
 - [ ] A 126.1mW Real-Time Natural UI/UX Processor with Embedded Deep-Learning Core for Low-Power Smart Glasses (ISSCC'16) [pdf](https://ieeexplore.ieee.org/abstract/document/7418003#full-text-header) 
 - [ ] A 502GOPS and 0.984mW Dual-Mode ADAS SoC with RNN-FIS Engine for Intention Prediction in Automotive Black-Box System (ISSCC'16) [pdf](https://ieeexplore.ieee.org/document/7418004) 
@@ -60,13 +60,13 @@
 - [ ]  A 65nm 236.5nJ/Classification Neuromorphic Processor with 7.5% Energy Overhead On-Chip Learning Using Direct Spike-Only Feedback (ISSCC'19) [pdf](https://ieeexplore.ieee.org/document/8662398)
 - [ ]  LNPU: A 25.3TFLOPS/W Sparse Deep-Neural-Network Learning Processor with Fine-Grained Mixed Precision of FP8-FP16 (ISSCC'19) [pdf](https://ieeexplore.ieee.org/document/8662302#full-text-header)
 
-### 1.1.2.0 VLSI
+### 2.1.2.0 VLSI
 
-## 1.1.2 ASIC (Simulation)
+## 2.1.2 ASIC (Simulation)
 - [ ] EIE [pdf](https://arxiv.org/pdf/1602.01528.pdf)
 
-## 1.2 FPGA
+## 2.2 FPGA
 - [ ] ESE [pdf](https://arxiv.org/pdf/1612.00694.pdf)
 
 
-## 1.3 Computing-in-Memory
+## 2.3 Computing-in-Memory
