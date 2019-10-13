@@ -22,8 +22,9 @@
 - [ ] Shuffle Net [pdf](https://arxiv.org/pdf/1707.01083.pdf)
 - [ ] MobileNet [pdf](https://arxiv.org/pdf/1704.04861.pdf)
 
-## Instance Segmentation
+## Object Detection & Instance Segmentation
 
+Papers can check from [this](https://github.com/hoya012/deep_learning_object_detection?fbclid=IwAR0ktDAV7BJUGWVEKWOfO3eZgStU7F88srwCsgl6G_r-rXizrxrtm1v2qyU) awesome github.
 
 # 2. Hardware
 
