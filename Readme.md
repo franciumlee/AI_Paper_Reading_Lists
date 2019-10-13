@@ -63,10 +63,10 @@ Papers can check from [this](https://github.com/hoya012/deep_learning_object_det
 
 ### 2.1.2.0 VLSI
 
-## 2.1.2 ASIC (Simulation)
+## 2.1.2 ASIC (Simulation) (Finding paper from ISCA)
 - [ ] EIE [pdf](https://arxiv.org/pdf/1602.01528.pdf)
 
-## 2.2 FPGA
+## 2.2 FPGA (Finding paper from isFPGA)
 - [ ] ESE [pdf](https://arxiv.org/pdf/1612.00694.pdf)
 
 
